@@ -1,0 +1,65 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+/*!body {
+  background: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSDw8VFRUVFRUVFRUVFRUVFRUVFRUWFxUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDg0NDisZFRktKy0tLTcrLS03Nzc3LSstLS03Ny0rLS03LTctLTctLS0tNy0rLS0tLSstNy0tLTc3Lf/AABEIAOEA4QMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQIDB//EABgQAQEBAQEAAAAAAAAAAAAAAAABEQIx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD1CioikIEAqNVMAgGCFqwQUVFAgqAI0gIaQAoIIWgAIqAaooIzWqlFZwXEB1ZaQBUigIqAKmKIiwwFUCAgqAWopgggQUBJBAUBEWkAVFBEaZ6BnQAday0goqLBAAUAAAEWCKAi1AAhQLQAQUBEUoIGgKQgAnREoIjWAN1KtSiiwBAAFQgAFAFABFKCCKACAFVKCCoAUANWJFARalBAAbBAFoClIiwQAAIRQVABWaqUEABUIoCVagEgIAioCxYkAVnpUoAIDpUVAIqLgAAAACoAuAgFAlBAAMaZi0E0WJgGFQoIoAasTFgKzYqUEEAbqWrTAIuoAoACosACmAJVASi4gBgUEjSFARUBClABFoI0y1AEtWs0DEEB1RUFIqKAACiKAGKIgIBUVBV0tDRAAEFQBFQBUAIsSAFStM0EBAdUWoKKgCiKCwSLAC0BBFSioCiJSigkCLoIYACU1AW0EBYEgBqdFZ6oJigDrUarIoACiKAAABAAQAoUQBAUAApUAAAQAVAAZrVZoIKA61FqChEAUABYJKCiAKilESAQAAUEBAVAAQACgRcDQZSqzQAUHVmqVFSKmigqKCpUAUEEUogqggKioIAgKIoIAAFABNUEqVazQFZBXYpUqCLEUFSgoKkUAiKAUQAIUAEEVFQBaAEQAEUBAAGVqAgKiurNXUAIgCggLGogoCAKBoAqUAQAAEFQFNRagi6amAqLqJois2rWQTRrFBtAQRUBVOQBYAolWABRAFq0ASgICAqLS+ICqUAEQAqUAKgIgAD/2Q==) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}*/
+
+.index-bg{
+  background-color:#EDF8FB;
+}
+
+.cases-bg{
+  background-color:#EDF8FB;
+}
+
+.vaccines-bg{
+  background-color :#EDF8FB;
+}
+
+.tests-bg{
+  background-color:#EDF8FB;
+}
+
+.navbar-custom{
+  background-color: #810F7C !important;
+
+}
+/*center graphs*/
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
+/*text in the center*/
+.textcenter{
+  text-align: center;
+}
+
+/*unvisited links*/
+a.link{
+  color:#810F7C;
+}
+
+a.visited{
+  color: #8C96C6;
+}
+/*when mouse goes over the link*/
+a.hover{
+  color: #8856A7;
+}
+/*selected link*/
+a.active{
+  color: #8856A7;
+}
+
+/*map_f4656850ac884c8ba63fca7b6cd4d7fe {
+  height: 50%;
+}*/
