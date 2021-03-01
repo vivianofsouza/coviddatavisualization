@@ -1,4 +1,4 @@
-# coviddatavisualization
+# covid-data-visualization
 Python data visualization website built for PearlHacks 2021.
 
 # Inspiration
