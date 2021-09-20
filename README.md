@@ -1,5 +1,7 @@
 # covid-data-visualization
 Python data visualization website built for PearlHacks 2021.
+[Link to Site](https://vivianofsouza.github.io/coviddatavisualization/)
+
 
 # Inspiration
 In the news, there's a lot of statistics and numbers about the Covid-19 pandemic. In terms of cases, we see a lot of data visualizations but not much in terms of vaccines and vaccine distribution. Therefore, we aimed to help other people understand the vaccination progress and the current state of the Covid-19 pandemic all in one website.
